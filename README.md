@@ -4,4 +4,4 @@ name:suri
 clg : anmk
 course :anmk
 loc :rajampeta
-loc : MCA
+loc : MBA
